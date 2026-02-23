@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Paul 👋
 
-<!--
-**pbalea/pbalea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior at **Illinois Institute of Technology** pursuing a B.S. in Data Science and M.A.S. in Artificial Intelligence  
+**GPA: 3.81** | Dean's List (4 semesters)
 
-Here are some ideas to get you started:
+## 🔬 Current Research
+- **Research Assistant** - Groundwater Market Modeling under NSF Grant, analyzing 20+ years of water rights transfer data
+- **SoReMo Research Fellow** - Investigating relationships between urban forestry, air quality, and public health outcomes across Chicago using geospatial data and statistical modeling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Languages:** Python, SQL, R, Java  
+**Libraries & Tools:** Pandas, NumPy, scikit-learn, Matplotlib, PostgreSQL, Power BI  
+**Specialties:** Machine Learning, Monte Carlo Simulation, Feature Engineering, Statistical Analysis
+
+## 📊 Featured Projects
+- **Diamond Pricing Optimization** - ML pipeline for price prediction and profit maximization
+- **Airline Overbooking Optimization** - 100K+ Monte Carlo simulations identifying revenue-optimal strategies
+- **Real Estate Management System** - Full-stack database application with normalized schema
+
+## 🏆 Extracurricular
+- NCAA Division III Men's Soccer Athlete (All-NACC Honorable Mention)
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-balea-8b3018293/)  
+📧 pbalea@hawk.illinoistech.edu  
+📍 Chicago, IL
