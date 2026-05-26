@@ -1,7 +1,7 @@
 # Hi, I'm Paul 👋
 
 Junior at **Illinois Institute of Technology** pursuing a B.S. in Data Science and M.A.S. in Artificial Intelligence  
-**GPA: 3.81** | Dean's List (4 semesters)
+**GPA: 3.84** | Dean's List (5 semesters)
 
 ## Current Research
 - **Research Assistant** - Groundwater Market Modeling under NSF Grant, analyzing 20+ years of water rights transfer data
