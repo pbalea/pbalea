@@ -1,5 +1,5 @@
 # Hi, I'm Paul 👋
-Junior at **Illinois Institute of Technology** pursuing a B.S. in Data Science and M.A.S. in Artificial Intelligence  
+Rising Senior at **Illinois Institute of Technology** pursuing a B.S. in Data Science and M.A.S. in Artificial Intelligence  
 **GPA: 3.84** | Dean's List (5 semesters)
 
 ## What I'm Working On
