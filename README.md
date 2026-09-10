@@ -4,7 +4,6 @@ Rising Senior at **Illinois Institute of Technology** pursuing a B.S. in Data Sc
 
 ## What I'm Working On
 - **GTM Engineer Intern @ LogicGate** (Summer 2026) — building an AI SDR system to automate prospect research and pipeline qualification
-- **SEC Insight Agent** — agentic RAG system over SEC 10-Q filings using a custom Claude tool-use loop, pgvector semantic search, and OpenAI embeddings
 - **Earnings Lens** — financial NLP platform that extracts earnings call topics via Claude Haiku, scores quarter-over-quarter narrative drift, and generates analyst narratives via Claude Sonnet
 
 ## Research
