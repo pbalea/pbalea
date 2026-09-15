@@ -3,7 +3,7 @@ Senior at **Illinois Institute of Technology** pursuing a B.S. in Data Science a
 **GPA: 3.84** | Dean's List (5 semesters)
 
 ## What I'm Working On
-- **Agentic Academic Advisor** - Building an academic advising AI tool for IIT students as a part of the Agentic AI for Campus Innovation course
+- **Agentic Academic Advisor** - Helping IIT students plan their degree path with an AI advisor that reads their transcript and checks degree requirements
 
 ## Previous Internships
 - **GTM Engineer Intern @ LogicGate** (Summer 2026)
