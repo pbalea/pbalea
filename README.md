@@ -1,21 +1,24 @@
 # Hi, I'm Paul 👋
-Rising Senior at **Illinois Institute of Technology** pursuing a B.S. in Data Science and M.A.S. in Artificial Intelligence  
+Senior at **Illinois Institute of Technology** pursuing a B.S. in Data Science and M.A.S. in Artificial Intelligence  
 **GPA: 3.84** | Dean's List (5 semesters)
 
 ## What I'm Working On
-- **GTM Engineer Intern @ LogicGate** (Summer 2026) — building an AI SDR system to automate prospect research and pipeline qualification
-- **Earnings Lens** — financial NLP platform that extracts earnings call topics via Claude Haiku, scores quarter-over-quarter narrative drift, and generates analyst narratives via Claude Sonnet
+- **Agentic Academic Advisor** - Building an AI tool for IIT students as a part of the Agentic AI for Campus Innovation course
+
+## Previous Internships
+- **GTM Engineer Intern @ LogicGate** (Summer 2026)
+  - Built an agentic Python research tool (Anthropic API) automating inbound lead research, cutting SDR research time from ~15 min to 1–2 min across 300+ leads/month
+  - Iteratively resolved accuracy issues via continuous evals against SDR feedback as volume and company diversity scaled
+  - Architected a 4-agent outbound AI toolkit (Claude Managed Agents) orchestrated into a Claude Code–built internal app, validated with GTM leadership
 
 ## Research
 - **Undergraduate Research Assistant** — NSF-funded groundwater market modeling (DMS-2407549) under Professor Igor Cialenco; engineered Python pipelines to extract 31 years of water rights transaction data across 755 transactions
 - **SoReMo Research Fellow** — geospatial pipeline integrating CDC, Census, and EPA data across 801 Chicago census tracts; built composite Health Burden Index via PCA and OLS regression models (R²=0.887)
 
 ## Tech Stack
-**Languages:** Python, SQL, R, Java  
-**AI & LLM:** Anthropic Claude API, OpenAI API, Agentic RAG, Tool-Use Agent Loops, Vector Search (pgvector)  
-**Machine Learning:** Regression, Classification, Gradient Boosting, Feature Engineering, Model Evaluation, NLP  
-**Backend & Data:** FastAPI, PostgreSQL, BeautifulSoup4  
-**Other:** React, Git, Excel, Hypothesis Testing, Monte Carlo Simulation
+**Languages:** Python (Pandas, NumPy, scikit-learn, XGBoost), SQL, R, Java
+**AI & LLM:** Anthropic Claude API, OpenAI API, Tool-Use Agent Loops, Claude Managed Agents
+**Tools & Data:** AWS, PostgreSQL, Git, Flask, Zapier, MCP, Power BI, Excel
 
 ## Leadership
 - **Men's Soccer Captain**, Illinois Institute of Technology — All-NACC Honorable Mention, CSC Academic All-District, NACC Scholar Athlete
