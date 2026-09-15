@@ -3,7 +3,7 @@ Senior at **Illinois Institute of Technology** pursuing a B.S. in Data Science a
 **GPA: 3.84** | Dean's List (5 semesters)
 
 ## What I'm Working On
-- **Agentic Academic Advisor** - Building an AI tool for IIT students as a part of the Agentic AI for Campus Innovation course
+- **Agentic Academic Advisor** - Building an academic advising AI tool for IIT students as a part of the Agentic AI for Campus Innovation course
 
 ## Previous Internships
 - **GTM Engineer Intern @ LogicGate** (Summer 2026)
@@ -16,9 +16,9 @@ Senior at **Illinois Institute of Technology** pursuing a B.S. in Data Science a
 - **SoReMo Research Fellow** — geospatial pipeline integrating CDC, Census, and EPA data across 801 Chicago census tracts; built composite Health Burden Index via PCA and OLS regression models (R²=0.887)
 
 ## Tech Stack
-**Languages:** Python (Pandas, NumPy, scikit-learn, XGBoost), SQL, R, Java
-**AI & LLM:** Anthropic Claude API, OpenAI API, Tool-Use Agent Loops, Claude Managed Agents
-**Tools & Data:** AWS, PostgreSQL, Git, Flask, Zapier, MCP, Power BI, Excel
+- **Languages:** Python (Pandas, NumPy, scikit-learn, XGBoost), SQL, R, Java
+- **AI & LLM:** Anthropic Claude API, OpenAI API, Tool-Use Agent Loops, Claude Managed Agents
+- **Tools & Data:** AWS, PostgreSQL, Git, Flask, Zapier, MCP, Power BI, Excel
 
 ## Leadership
 - **Men's Soccer Captain**, Illinois Institute of Technology — All-NACC Honorable Mention, CSC Academic All-District, NACC Scholar Athlete
